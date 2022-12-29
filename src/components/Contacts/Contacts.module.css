@@ -1,0 +1,23 @@
+.Contacts {
+/* border: 1px solid black; */
+width: 350px;
+padding: 20px;
+}
+
+.Contact {
+  margin-bottom: 10px;
+}
+
+.DeleteBtn {
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  background-color: #777;
+  padding: 3px;
+  cursor: pointer;
+  float: right;
+}
+
+.Contact:last-child {
+  margin-bottom: 0;
+}
